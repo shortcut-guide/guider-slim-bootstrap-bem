@@ -1,0 +1,37 @@
+- Sitename = "_______"
+- Title = "_______"
+- Pageurl = "_______"
+- Description = "_______"
+- Canonicalurl = "canonical"
+- Alternateurl = "alternate"
+- Linktype = 3
+- OGPtype = 1
+
+head
+	/ canonical or alternate or none
+	- case Linktype
+	- when 1
+	  link rel="canonical" href = Canonicalurl
+	- when 2
+	  link rel="alternate" media="only screen and (max-width: 640px)" href = Alternateurl
+	- when 3
+	/ for iE
+	/![if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge' /><![endif]
+	meta charset="utf-8"
+	meta name="viewport" content="width=device-width, initial-scale=1"
+	title = Title
+	meta name="description" content = Description
+	/ OGP
+	- case OGPtype
+	- when 1
+		meta property="og:type" content="website"
+	- when 2
+		meta property="og:type" content="article"
+	meta property="og:site_name" content = Sitename
+	meta property="og:url" content = Pageurl
+	meta property="og:title" content = Title
+	meta property="og:description" content = Description
+	meta property="og:image" content = "#{Pageurl}images/ogp.png"
+	meta property="og:locale" content="ja_JP"
+
+	include css-common

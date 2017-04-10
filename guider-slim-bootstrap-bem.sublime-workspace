@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dis",
+				"display"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"ready",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"b",
+				"banner@2x.png\tw:2801 h:765"
+			],
+			[
+				"c",
+				"cart@2x.png\tw:30 h:24"
+			],
+			[
+				"l",
+				"logo@2x.png\tw:820 h:98"
+			],
+			[
+				"s",
+				"sale@2x.png\tw:2720 h:198"
+			],
+			[
+				"src",
+				"srcset\tAttr"
+			],
+			[
+				"i",
+				"item1@2x.png\tw:540 h:718"
+			],
+			[
+				"fade",
+				"fadeIn\t.fadeIn()"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"post",
+				"post_custom"
+			],
+			[
+				"po",
+				"position\t(module.sass)"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"m-header-",
+				"m-header-globalnav-nav"
+			],
+			[
+				"regi",
+				"register_sidebar"
+			],
+			[
+				"do",
+				"do_shortcode\t(index.php)"
+			],
+			[
+				"id",
+				"idrawer\t(index.php)"
+			],
+			[
+				"wi",
+				"widgets"
+			],
+			[
+				"wp_re",
+				"wp_register_script"
+			],
+			[
+				"get_te",
+				"get_template_part〔function〕"
+			],
+			[
+				"menu",
+				"menu_class"
+			],
+			[
+				"pri",
+				"primary_navigation"
+			],
+			[
+				"theme",
+				"theme_location"
+			],
+			[
+				"m-header-glo",
+				"m-header-globalnav-nav"
+			],
+			[
+				"is-",
+				"is-active"
+			],
+			[
+				"arch",
+				"archive_num"
+			],
+			[
+				"arc",
+				"archive_name"
+			],
+			[
+				"home",
+				"home_num"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sub",
+		"selected_items":
+		[
+			[
+				"sub",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"sublime",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"ecss",
+				"Run eCSStractor"
+			],
+			[
+				"Ever",
+				"Evernote: List recent notes"
+			],
+			[
+				"List Pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/max/var/www/guider-slim-bootstrap-bem"
+	],
+	"file_history":
+	[
+		"/Users/max/var/www/mikidance-h/app/public/includes/modules/contents/lesson.slim",
+		"/Users/max/var/www/mikidance-h/app/public/includes/modules/contents/index.slim",
+		"/Users/max/var/www/mikidance-h/app/public/includes/modules/headers/header.slim",
+		"/Users/max/var/www/mikidance-h/app/public/lesson.html",
+		"/Users/max/var/www/mikidance-h/app/public/css/plugins.css",
+		"/Users/max/var/www/mikidance-h/app/public/includes/modules/footers/footer.slim",
+		"/Users/max/var/www/mikidance-h/app/public/includes/modules/scripts/scripts.slim",
+		"/Users/max/var/www/mikidance-h/app/public/css/yourstyle.css",
+		"/Users/max/.Trash/＿index.php",
+		"/Users/max/var/www/mikidance-h/app/public/__index.html",
+		"/Users/max/var/www/mikidance-h/app/public/css/style.css",
+		"/Users/max/var/www/mikidance-h/app/public/asset/scss/style.scss",
+		"/Users/max/var/www/mikidance-h/app/bp/index.html",
+		"/Users/max/var/www/mikidance-h/app/public/includes/modules/contents/__index.slim",
+		"/Users/max/var/www/mikidance-h/app/public/includes/modules/contents/__index",
+		"/Users/max/var/www/mikidance-h/app/public/index.html",
+		"/Users/max/var/www/mikidance-h/app/public/includes/heads/index-head.slim",
+		"/Users/max/var/www/mikidance-h/app/public/includes/footer.slim",
+		"/Users/max/var/www/mikidance-h/app/public/includes/header.slim",
+		"/Users/max/var/www/mikidance-h/app/public/includes/scripts.slim",
+		"/Users/max/var/www/mikidance/app/public/wp-content/themes/guider/functions.php",
+		"/Users/max/var/www/jaxson/html/js/common/jxsn-common.js",
+		"/Users/max/var/www/jaxson/html/css/common/jxsn-footer-common.css",
+		"/Users/max/var/www/jaxson/html/index.html",
+		"/Users/max/var/www/jaxson/html/css/common/jxsn-header-common.css",
+		"/Users/max/var/www/jaxson/header_footer_0315_r1/header-footer.html",
+		"/Users/max/Documents/project/カラーミー/shinkirou1.0/shinkirou1.0/js/app.js",
+		"/Users/max/Documents/project/カラーミー/shinkirou1.0/shinkirou1.0/index.html",
+		"/Users/max/var/www/jaxson/html/lib/js/single/jxsn-functions.js",
+		"/Users/max/var/www/jaxson/html/lib/css/archive/fullview.css",
+		"/Users/max/var/www/jaxson/html/lib/js/archive/jquery.fullscreen.min.js",
+		"/Users/max/var/www/jaxson/html/lib/js/archive/jxsn-functions.js",
+		"/Users/max/var/www/jaxson/html/_fullsize.html",
+		"/Users/max/var/www/jaxson/html/lib/css/archive/jxsn-archive-common.css",
+		"/Users/max/var/www/jaxson/html/single-sedere-neo_venti_1785c.html",
+		"/Users/max/var/www/jaxson/html/lib/css/single/fullview.css",
+		"/Users/max/var/www/jaxson/html/lib/css/single/jxsn-single-common.css",
+		"/Users/max/var/www/jaxson/html/lib/css/common/jxsn-common.css",
+		"/Users/max/var/www/jaxson/html/fullsize.html",
+		"/Users/max/var/www/jaxson/fullsize.html",
+		"/Users/max/var/www/jaxson/html/lib/js/single/jquery.fullscreen.min.js",
+		"/Users/max/var/www/jaxson/html/sedere-neo_venti_1785c.html",
+		"/Users/max/var/www/jaxson/html/lib/js/jxsn-common.js",
+		"/Users/max/var/www/jaxson/html/lib/css/jxsn-common.css",
+		"/Users/max/var/www/jaxson/html/lib/css/home/jxsn-home.css",
+		"/Users/max/var/www/jaxson/html/lib/css/home/template.css",
+		"/Users/max/var/www/jaxson/html/lib/css/templ-top.css",
+		"/Users/max/var/www/jaxson/html/lib/css/pie/pie.css",
+		"/Users/max/var/www/jaxson/html/lib/css/ie9.css",
+		"/Users/max/var/www/jaxson/html/lib/js/home/jxsn-functions.js",
+		"/Users/max/var/www/jaxson/html/lib/css/jxsn-header-common.css",
+		"/Users/max/var/www/jaxson/html/lib/css/single/jxsn-common.css",
+		"/Users/max/var/www/jaxson/html/lib/css/home/jxsn-top.css",
+		"/Users/max/Downloads/20170309_header/index.html",
+		"/Users/max/var/www/jaxson/html/lib/js/tmpl.js",
+		"/Users/max/var/www/jaxson/html/page-tmpl.html",
+		"/Users/max/var/www/jaxson/base/polo-master/HTML/index.html",
+		"/Users/max/var/www/jaxson/html/README.md",
+		"/Users/max/var/www/jaxson/html/lib/css/polo/style.css",
+		"/Users/max/var/www/jaxson/html/lib/js/polo/script.js",
+		"/Users/max/var/www/jaxson/html/lib/js/jquery.min.js",
+		"/Users/max/var/www/jaxson/html/lib/bower_components/jquery/dist/jquery.min.js",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/B338ABBB-BFB1-49A5-972E-0679FEC4D387/common.css",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/506FD91A-DDA3-4D69-8F61-AFB17455CE13/archive.css",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/BB5B10B0-428C-4A86-A786-3FA4F71E792D/single.css",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/182CBB80-0C17-4CE2-8ABC-BF82E5FB13E7/top.css",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/AC61C351-FBCF-4894-91E1-114CB7540556/app.js",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/AFE9D641-4FDF-4026-8486-4503DE9E5816/archive.html",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/182E4A41-7584-4564-B2BB-3FC1861D7957/index.html",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/B821108C-667A-43B8-BBDC-D7143DAE5037/single.html",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/Child Theme/click-mag-child/functions.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/Child Theme/click-mag-child/header.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/Child Theme/click-mag-child/style.css",
+		"/Users/max/Documents/project/カラーミー/shinkirou1.0/shinkirou1.0/js/transtion.js",
+		"/Users/max/Documents/project/カラーミー/shinkirou1.0/shinkirou1.0/css/zoom.css",
+		"/Users/max/Documents/project/カラーミー/shinkirou1.0/shinkirou1.0/js/jquery.ifixpng.js",
+		"/Users/max/Documents/project/カラーミー/shinkirou1.0/shinkirou1.0/css/style.css",
+		"/Users/max/Documents/project/カラーミー/shinkirou1.0/1/index.html",
+		"/Users/max/Documents/project/カラーミー/shinkirou1.0/1/css/app.css",
+		"/Users/max/Documents/project/カラーミー/shinkirou1.0/1/js/app.js",
+		"/Users/max/Documents/project/カラーミー/shinkirou1.0/1/guide.html",
+		"/Users/max/var/www/mmhmb/mmhmb.sublime-project",
+		"/Users/max/var/www/mmhmb/y-mmhmb_sp/y-mmhmb_sp.html",
+		"/Users/max/var/www/mmhmb/y-mmhmb/y-mmhmb.html",
+		"/Users/max/var/www/mmhmb/a-mmhmb_sp/a-mmhmb_sp.html",
+		"/Users/max/var/www/mmhmb/a-mmhmb/a-mmhmb.html",
+		"/Users/max/var/www/mmhmb/mmhmb_sp/mmhmb_sp.html",
+		"/Users/max/var/www/mmhmb_sp.html",
+		"/Users/max/var/www/blog/app/public/wp-content/themes/blog/template-parts/content-head.php",
+		"/Users/max/var/www/blog/app/public/wp-content/themes/blog/functions.php",
+		"/Users/max/var/www/guider/wordpress/wp-content/themes/guider/template-parts/content-burger.php",
+		"/Users/max/var/www/guider/wordpress/wp-content/themes/guider/template-parts/content-category.php",
+		"/Users/max/var/www/guider/wordpress/wp-content/themes/guider/template-parts/content-head.php",
+		"/Users/max/var/www/guider/wordpress/wp-content/themes/guider/template-parts/content-home.php",
+		"/Users/max/var/www/guider/wordpress/wp-content/themes/guider/template-parts/content-recent.php",
+		"/Users/max/var/www/guider/wordpress/wp-content/themes/guider/template-parts/content-single.php",
+		"/Users/max/var/www/guider/wordpress/wp-content/themes/guider/template-parts/content-social.php",
+		"/Users/max/var/www/guider/wordpress/wp-content/themes/guider/template-parts/content-sns.php",
+		"/Users/max/var/www/guider/wordpress/wp-content/themes/guider/template-parts/content.php",
+		"/Users/max/var/www/tsukuba.itra.co.jp/app/public/wp-content/plugins/custom-field-suite/cfs.php",
+		"/Users/max/var/www/tsukuba.itra.co.jp/app/public/wp-content/plugins/custom-field-suite/templates/field_html.php",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/8AA9D753-29CF-4874-A3DF-81930BF112D2/functions.php",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/326BFBF0-154D-40E1-83F7-9F10B4E39F2C/functions.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/click-mag/js/scripts.js",
+		"/Users/max/Downloads/user.txt",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/Child Theme/click-mag-child/page-home.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/click-mag/widgets/widget-pop.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/Child Theme/click-mag-child/category.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/Child Theme/click-mag-child/author-list.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/Child Theme/click-mag-child/author.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/Child Theme/click-mag-child/page-latest.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/Child Theme/click-mag-child/archive.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/Child Theme/click-mag-child/single.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/Child Theme/header.php",
+		"/Users/max/var/www/blog/app/public/wp-content/themes/blog/template-parts/content-home.php",
+		"/Users/max/var/www/blog/app/public/wp-content/themes/blog/lib/sass/theme.sass",
+		"/Users/max/var/www/blog/app/public/wp-content/themes/blog/template-parts/content.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/click-mag/style.css",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/click-mag-child/author.php",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/47552040-AB7D-429F-8878-376C2E37CE09/page-scrape.php",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/D286661C-D150-4B11-B5A0-3ED89E807513/page-home.php",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/827D88CE-0758-43F4-BDE8-2F375D151063/scrape.php",
+		"/Users/max/Library/Caches/Cleanup At Startup/Transmit/744BCEA1-CBBC-4A0E-880A-00F7D6E92FB8/page-home.php",
+		"/Users/max/var/www/hiwell/app/public/wp-content/themes/hiwell/lib/css/style_2.1.0.css",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/click-mag/page-home.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/click-mag/page-latest.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/click-mag-child/archive.php",
+		"/Users/max/var/www/bellare.aol-labo.com.dev/app/public/wp-content/themes/click-mag/category.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cursor:pointer;",
+			"block",
+			"cursor:pointer;",
+			"a",
+			"style=\"background-image:url(images/bg/5.jpg)\"",
+			".to-top",
+			"lesson",
+			"data-bgscr=\"images/bg/54.jpg\"",
+			" data-bgscr=\"images/bg/54.jpg\"",
+			".footer-social ",
+			".section-columns-img",
+			"section-columns-img",
+			"min-height:350px;",
+			"250px",
+			".inline-facts",
+			".parallax-section",
+			"){\n",
+			".parallax-section",
+			"latlng1",
+			".lesson",
+			"canvas",
+			"header",
+			"logo-holder",
+			".left-decor",
+			".show-share",
+			"244",
+			"text",
+			");\n",
+			"about.html",
+			".section-columns-img",
+			".parallax-section",
+			".owl-item",
+			"parallax-section",
+			"to-top",
+			"owl-controls",
+			"testi-item",
+			"{\n",
+			"subtitle",
+			"servicses-holder",
+			":",
+			" ~ ",
+			"~",
+			"〜",
+			"servicses-holder",
+			"3500",
+			"font-size: 1rem;",
+			"font-size: 16px;",
+			"12px",
+			".inline-facts",
+			"20px",
+			".servicses-holder",
+			".inline-facts",
+			"col-md-8",
+			" &",
+			" style=(\"width: 1024px; margin-right: 0px;\") ",
+			"succeed",
+			"style",
+			"  ",
+			"\" ",
+			"  0",
+			"\" ",
+			"\")",
+			"=(",
+			"&quot;",
+			"\" /",
+			" ",
+			"\"\"",
+			" /",
+			"</li>",
+			"</li>\n\t\t\t\t\t\t\t<div><img src=\"img/sample/mv.png\"></li>",
+			"<li>",
+			"<div>",
+			"slick-dots",
+			" />",
+			"CONTACT",
+			"WE",
+			"WE SHIP WORLDWIDE",
+			"#menu",
+			"260px",
+			"{}",
+			"<img",
+			"myCarousel",
+			"-2",
+			"-8",
+			"12",
+			"span2",
+			"12",
+			"lib/js/",
+			"style=\"",
+			"src=\"images",
+			"images",
+			"color: inherit;\n\t\tborder: 0;\n\t}",
+			"index.html",
+			"/>",
+			"/js/ie/",
+			"body.landing ",
+			"col-sm-4",
+			"col-xs-4",
+			"class=\"block\"",
+			"<a ",
+			"<li>",
+			" /",
+			"fastview",
+			"feature-spec-notes-inlist-item",
+			"WS FS",
+			"<!-- select で判定 standard/option/unmatched -->",
+			"<!-- select で判定 -->",
+			"data col-md-6 col-lg-6",
+			"col-md-12 col-lg-12 center-block",
+			"data",
+			"title",
+			"<i class=\"glyphicons glyphicons-vector-path-circle\"></i>",
+			"<span class=\"glyphicons",
+			"<span class=\"glyphicons glyphicons-vector-path-circle\"></span>",
+			"list",
+			"-inlist-",
+			"li",
+			"ul",
+			"class=\"",
+			"features",
+			"breadcrumb",
+			"Section",
+			"section",
+			"div",
+			"../img/",
+			"fonts",
+			"assets/img/",
+			"bower_components"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"rulers":
+							[
+								-0.1,
+								0.2
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "guider-slim-bootstrap-bem.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"13",
+				"~/Library/Caches/Cleanup At Startup/Transmit/BB5B10B0-428C-4A86-A786-3FA4F71E792D/single.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"rulers":
+		[
+		]
+	}
+}
