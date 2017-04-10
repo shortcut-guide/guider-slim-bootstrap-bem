@@ -41,12 +41,17 @@
 
 ## Block
 構成要素。ページ内で何度でもどこでも置くことが出来る独立して動作するもの。
+BlockとElementの区切りはアンスコ2個（__）
 
 ## Element
 Blockに紐付いて定義される。要素内のパーツであり、Block内であれば繰り返し使用できる。
+BlockまたはElementとModifierの区切りはハイフン2個（--）
 
 ## Modifier
 少しだけ違うものを量産するときに用いる。あくまで変更がかかる要素に対して付ける。
+ModifierのKeyとValueの区切りはアンスコ1個(_)
+
+BlockやElementを2つ以上の単語で表す時はハイフン1個(-)
 
 ### Example
 #### Block + Element
@@ -63,13 +68,13 @@ Blockに紐付いて定義される。要素内のパーツであり、Block内�
 標準的な使用。本来のElementの使い方そのまま。
 
 #### Block + Modifier
-.box--white
+.box_white
 ```
 <div class="box">
-    <div class="box__ttl">タイトル</div>
+    <div class="box_ttl">タイトル</div>
 </div>
-<div class="box box--white">
-    <div class="box__ttl">タイトル</div>
+<div class="box box_white">
+    <div class="box_ttl">タイトル</div>
 </div>
 ```
 
@@ -115,17 +120,17 @@ Modifierとして拡張された要素の、パーツとして定義したい場
 なので同時に.box--whiteが定義されているのが前提となる。
 
 #### Block + Modifier + Modifier
-.box--white--big
+.box_white_big
 
 ```
 <div class="box">
-    <div class="box__ttl">タイトル</div>
+    <div class="box_ttl_sub">タイトル</div>
 </div>
-<div class="box box--white">
-    <div class="box__ttl">タイトル</div>
+<div class="box box_white_sub">
+    <div class="box_ttl_white_sub">タイトル</div>
 </div>
-<div class="box box--white--big">
-    <div class="box__ttl">タイトル</div>
+<div class="box box_white_big">
+    <div class="box_ttl_big">タイトル</div>
 </div>
 ```
 
